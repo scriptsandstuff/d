@@ -1,0 +1,196 @@
+/** {
+	box-sizing: border-box;
+}*/
+
+*, body {
+	margin: 0;
+	border: none;
+	box-sizing: border-box; 
+}
+
+blockquote {
+	margin-left: 2rem;
+	margin-right: 2rem;
+	background-color: #aaa;
+
+}
+
+#ratio, #pop, #tds {
+	/*margin: auto;*/
+	text-align: right;
+	float: right;
+}
+
+.vis-group {
+	border-bottom: none !important;
+}
+
+.vis-item.vis-background.byEff.election_census.odd, 
+.vis-item.vis-background.byAct.act_census.even  {
+	background-color: rgba(50, 100, 180, 0.65);
+}
+
+.vis-item.vis-background.byEff.census_election.odd,
+.vis-item.vis-background.byAct.census_act.odd  {
+	background-color: rgba(70, 130, 180, 0.65);
+}
+
+.vis-item.vis-background.byEff.election_census.even,
+.vis-item.vis-background.byAct.act_census.odd  {
+	background-color: rgba(70, 70, 70, 0.65);
+}
+
+.vis-item.vis-background.byEff.census_election.even, 
+.vis-item.vis-background.byAct.census_act.even  {
+	background-color: rgba(90, 90, 90, 0.65);
+}
+
+
+.vis-item.act-census {
+	background-color: rgba(255, 0, 0, 0.5);
+}
+
+
+
+#left-container {
+	box-sizing: border-box; 
+	position: relative;
+	float: left;
+	width: 50%;	
+}
+
+#timeline-container {
+	box-sizing: border-box; 
+	height: 30vh;
+	/*position: relative;
+	float: left;
+	width: 50%;*/
+}
+
+#IE-rep-timeline {
+	/*position: relative;*/
+	overflow: hidden;
+	height: 30vh;
+}
+
+.arrow-up {
+	/* better to get this arrow into the timeline...*/
+	box-sizing: border-box; 
+	position: relative;
+	width: 0; 
+	height: 0; 
+	top: -20px;
+
+	/*left: calc(50% - 10px);*/
+	/*background-color: black;*/
+	/*color: black;*/
+    /*left: 50%;*/
+    /*margin-right: -50%;*/    
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 20px solid black;
+}
+
+#event_detail {
+	/*height: 75vh;*/
+	/*background-color: orange;*/
+	/*display: "block";*/
+	float: left;
+	/*width: 51%;*/
+	overflow: hidden;
+	height: 30vh;
+	/*position: relative;*/
+}
+#detail_table {
+	width: 50%;
+	float: left;
+}
+#detail_names, #detail_values {
+	width: 50%;
+	/*text-decoration: none;*/
+}
+#detail_names{
+ 	float: left;
+	text-align: right;
+}
+ #detail_values {
+ 	float: right;
+ }
+
+ ul {
+    /*list-style: none;*/
+ /*	padding-left: 1rem;
+ 	padding-right: 1rem;*/
+ }
+
+ ul li{
+ 	/*display: block;*/
+}
+
+#detail_text {
+	width: 50%;
+	float:right;
+}
+
+
+#histog {
+	width: 67%;
+	height: 40vh;
+	float: left;
+}
+
+#rows_chart {
+	width: 33%;
+	float: right;
+	height: 40vh;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	direction: rtl;
+}
+
+#IE_map {
+	/*margin-top: -97px;*/
+	width: 48%;
+	height: 100vh;
+	position: relative;
+	float: right;
+	overflow: hidden;
+}
+
+#map_img {
+	float: right;
+}
+
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+.info h4 {
+    margin: 0 0 5px;
+    color: #777;
+}
+
+.legend {
+	line-height: 18px;
+	color: #555;
+}
+.legend i {
+	width: 18px;
+	height: 18px;
+	float: left;
+	margin-right: 8px;
+	opacity: 0.7;
+}
+
+/*#intro-dlg { */
+/*.ui-widget-content {*/
+/*.ui-dialog{*/
+.ui-widget.ui-widget-content{
+     /*background-color: rgba(255,255,255,0.9);*/
+    z-index: 1001;
+    opacity: 0.85;
+}

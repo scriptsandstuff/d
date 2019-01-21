@@ -1,0 +1,20 @@
+event,date,national_pop,national_tds,national_ratio,lowest_name,lowest_pop,lowest_tds,lowest_ratio,highest_name,highest_pop,highest_tds,highest_ratio,Act
+census 2016,"2017, 4, 6",4761865,158,30138,Limerick County,83845,3,27948,Dublin North-West,96992,3,32330,Act 1948
+act 2013,"2013, 3, 20",4588252,158,29039,Dublin Mid-West,110427,4,27607,Donegal,152358,5,30472,Act 1949
+census 2011,"2012, 3, 29",4588252,166,27640,Dublin North-Central,74501,3,24834,Laois-Offaly,152825,5,30565,Act 1950
+act 2009,"2009, 2, 24",4239848,166,25541,Limerick City,100993,5,20198,Dublin West,105668,3,35222,Act 1951
+census 2006,"2007, 4, 26",4239848,166,25541,Dún Laoghaire,113936,5,22787,Dublin West,92800,3,30933,Act 1952
+act 2005,"2005, 7, 9",3917203,166,23598,Cavan - Monaghan,109139,5,21828,Louth,101821,5,25455,Act 1953
+census 2002,"2003, 7, 9",3917203,166,23598,Dublin North - West,62376,3,20792,Kildare North,85473,3,28491,Act 1954
+Census 1996,"1996, 1, 1",3626087,166,21844,Cork North-West,59794,3,19931,Dublin West,101240,4,25310,Act 1955
+Census 1991,"1991, 1, 1",3525719,166,21239,Wicklow,107171,5,11434,Dublin North,94870,4,23718,Act 1956
+Census 1986,"1986, 1, 1",3540643,166,21329,Dublin Central,91732,5,18346,Dublin South-West,106848,4,26712,Act 1957
+Census 1981,"1981, 1, 1",3443405,166,20744,Dublin Central,95431,5,19086,Dublin South-West,95407,4,23852,Act 1958
+Census 1979,"1979, 1, 1",3368218,148,22759,Dublin North-Central,47109,3,15703,County Dublin,109642,3,36547,Act 1959
+Census 1971,"1971, 1, 1",2978248,144,20683,East Mayo,54593,3,18198,Dublin North-East ,111315,4,27829,Act 1960
+Census 1966,"1966, 1, 1",2884002,144,20028,Dublin North (Central),66842,4,16711,Dublin,145903,5,29181,Act 1961
+Census 1961,"1961, 1, 1",2818341,144,19572,Roscommon,71504,4,17876,Dublin North (West),70744,3,23581,Act 1961
+Census 1956,"1956, 1, 1",2898264,147,19716,Dublin North (Central),42361,5,14120,Dublin,135458,3,45153,Act 1947
+Census 1951,"1951, 1, 1",2960593,147,20140,Cavan,66377,4,16595,Dublin,89857,3,29953,Act 1947
+Census 1946,"1946, 1, 1",2945939,147,20041,Dublin North (West),45819,3,15273,Dublin North (Central),85861,3,28621,Act 1947
+Census 1936,"1936, 1, 1",2967520,147,20188,Dublin North (West),35142,3,11714,Dublin North (Central),95235,3,31745,Act 1947
